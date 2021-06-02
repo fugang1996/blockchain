@@ -4,7 +4,7 @@
  * @Author: fugang
  * @Date: 2021-06-02 11:56:31
  * @LastEditors: fugang
- * @LastEditTime: 2021-06-02 14:28:02
+ * @LastEditTime: 2021-06-02 14:29:39
  */
 import Vue from 'vue'
 import App from './App.vue'
