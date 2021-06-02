@@ -4,7 +4,7 @@
  * @Author: fugang
  * @Date: 2021-06-02 11:56:31
  * @LastEditors: fugang
- * @LastEditTime: 2021-06-02 13:53:02
+ * @LastEditTime: 2021-06-02 16:11:52
  */
 import Vue from 'vue'
 import VueRouter from 'vue-router'
@@ -35,6 +35,11 @@ const routes = [
     path: '/invitation',
     name: 'Invitation',
     component: () => import('../views/Invitation.vue')
+  },
+  {
+    path: "/user",
+    name: 'User',
+    component: () => import('../views/User.vue')
   }
 ]
 
