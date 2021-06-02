@@ -4,7 +4,7 @@
  * @Author: fugang
  * @Date: 2021-06-02 11:56:31
  * @LastEditors: fugang
- * @LastEditTime: 2021-06-02 13:53:33
+ * @LastEditTime: 2021-06-02 14:02:32
  */
 import Vue from 'vue'
 import VueRouter from 'vue-router'
@@ -35,6 +35,12 @@ const routes = [
     path: '/invitation',
     name: 'Invitation',
     component: () => import('../views/Invitation.vue')
+  },
+  //个人中心
+  {
+    path: '/user',
+    name: 'Username',
+    component: () => import('../views/User.vue')
   }
 ]
 
