@@ -4,5 +4,18 @@
  * @Author: fugang
  * @Date: 2021-06-02 14:00:56
  * @LastEditors: fugang
- * @LastEditTime: 2021-06-02 14:00:56
+ * @LastEditTime: 2021-06-02 14:28:30
 -->
+<template>
+
+</template>
+
+<script>
+  export default {
+
+  }
+</script>
+
+<style>
+
+</style>
